@@ -1,2 +1,2 @@
-##links to repos for each homework.
-  * homwork 1:
+## links to repos for each homework.
+  * homework 1:
