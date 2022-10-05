@@ -1,2 +1,2 @@
 ## links to repos for each homework.
-  * homework 1:
+  * homework 1: https://github.com/Schultec/CompareLab1
