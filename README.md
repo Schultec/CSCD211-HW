@@ -10,3 +10,8 @@
   * homework 4: https://github.com/Schultec/Lab5-NDH
       - learn and begin working with linked lists in java.
       - learn to use jgrasp visualizer to help build linked lists.
+  * homework 5: https://github.com/Schultec/Lab6-DH
+      - continue working with linked lists in java.
+      - continue to use the jgrasp visualizer.
+      - begin working with linked lists that have dummy heads.
+      
