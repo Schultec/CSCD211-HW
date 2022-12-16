@@ -14,4 +14,9 @@
       - continue working with linked lists in java.
       - continue to use the jgrasp visualizer.
       - begin working with linked lists that have dummy heads.
-      
+  * homework 6: https://github.com/Schultec/Lab6-DH
+      - continued work with linked lists.
+      - learn the use of dummy head in linked lists
+  * homework 7: https://github.com/Schultec/Lab7-BasicInheritance
+      - working with java inheritance
+  * homework 8: 
