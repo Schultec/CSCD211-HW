@@ -19,4 +19,5 @@
       - learn the use of dummy head in linked lists
   * homework 7: https://github.com/Schultec/Lab7-BasicInheritance
       - working with java inheritance
-  * homework 8: 
+  * homework 8: https://github.com/Schultec/Lab8-Abstract
+  * homework 9: https://github.com/Schultec/Lab9-Full-Inheritance
